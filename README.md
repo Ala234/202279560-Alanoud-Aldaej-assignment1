@@ -17,7 +17,7 @@ Content, design and concept of this portfolio was designed by `ALANOUD ALDAEJ`
 https://github.com/Ala234/202279560-Alanoud-Aldaej-assignment1.git
 ```
 5. Select a local directory where the project will be saved.
-6. If a security message appears, choose **Trust the Authors**.
+6. If a security message appears, choose **Trust and Authors**.
 7. After cloning is complete, locate and open the `index.html` file.
 8. View the project in a web browser by:
 - Opening the file directly in the browser by clicking on `Run without debugging`
