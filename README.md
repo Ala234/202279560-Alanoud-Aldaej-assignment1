@@ -1,4 +1,4 @@
-# 202279560-Alanoud-Aldaej-assignment1
+# Assignment 1
 ## Assignment description
 This assignment is a personal portfolio website that presents basic information about me, my projects, skills, and contect details.
 
